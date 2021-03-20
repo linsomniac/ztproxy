@@ -1,3 +1,5 @@
+[![Public Domain Unlicense][license-shield]][license-url]
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -92,7 +94,7 @@ The arguments are as follows:
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Public Domain Unlicense. See `LICENSE.txt` for more information.
 
 
 ## Contact
@@ -112,4 +114,4 @@ Project Link: [https://github.com/linsomniac/ztproxy](https://github.com/linsomn
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
 [license-url]: https://github.com/linsomniac/ztproxy/blob/master/LICENSE.txt
-[MIT License](https://choosealicense.com/licenses/mit/)
+[Public Domain Unlicense](https://choosealicense.com/licenses/unlicense/)
