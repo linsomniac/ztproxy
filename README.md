@@ -112,6 +112,6 @@ Project Link: [https://github.com/linsomniac/ztproxy](https://github.com/linsomn
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/linsomniac/ztproxy.svg?style=for-the-badge
 [license-url]: https://github.com/linsomniac/ztproxy/blob/main/LICENSE.txt
 [Public Domain Unlicense](https://choosealicense.com/licenses/unlicense/)
