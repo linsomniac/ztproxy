@@ -14,6 +14,13 @@
   </p>
 </p>
 
+## Deprecated
+
+This was written for libzt 1.3b and I have not used it since.  I just tried
+(July 2022) and "pip install libzt" doesn't work, so that's kind of a non-starter.
+I have also received a report that this does not work with version 1.4.2 or 1.8.4
+of libzt.  If someone would like to take over maintaining it, let me know.
+
 ## Overview
 
 Like "netcat", but for talking to ZeroTier endpoints.
